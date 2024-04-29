@@ -10,3 +10,6 @@
 
 
 4.) Make sure to make folder with name Argo then under Argo folder make a folder with name Application and place these files cluster_autoscaler.yaml, external-secrets.yaml, grafana.yaml, projects.yaml, prom.yaml
+
+
+5.) Make sure to make folder with name Argo and then under Argo folder make a folder with name Projects then put these files explorer.yaml, helm.yaml
