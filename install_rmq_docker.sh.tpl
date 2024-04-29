@@ -189,3 +189,7 @@ sleep 2
 sudo systemctl start node_exporter
 sleep 2
 sudo systemctl enable node_exporter
+
+
+
+#note: create folder name with template and then create a file inside folder
