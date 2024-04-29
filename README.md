@@ -13,3 +13,6 @@
 
 
 5.) Make sure to make folder with name Argo and then under Argo folder make a folder with name Projects then put these files explorer.yaml, helm.yaml
+
+
+6.) Make sure to make folder with name Argo and then under Argo folder make a folder with name Secrets and put secret.yaml file
